@@ -1,0 +1,2 @@
+Operating System
+FAT12 File System
